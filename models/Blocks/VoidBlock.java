@@ -7,3 +7,4 @@ class VoidBlock extends Blocks {
     @Override
     public void interact() {}
 }
+
